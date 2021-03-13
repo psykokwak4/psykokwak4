@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xiaoq~~u~~in (晓勤)
+I'm ~~Xiaoquin~~ Xiaoqin (晓勤)
 
 <!--
 **psykokwak4/psykokwak4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - I'd like to work with: please, anything except powershell
 - unpopular opinion: python is more elegant compared to most of the scripting languages
 - My WPM is about 86 and I'm ESL speaker loves making make typos / grammar mistakes
-- To me, the speed of email routing is faster than IMs
+- Email is my preferred method, shoot me an email if necessary
 
 opinions are my own, of course
