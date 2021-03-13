@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Xiaoq~~u~~in
+I'm Xiaoq~~u~~in (晓勤)
 
 <!--
 **psykokwak4/psykokwak4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +8,10 @@ I'm Xiaoq~~u~~in
 Here are some ideas to get you started:
 -->
 
+- Chinese
 - I'm a fast stackoverflow copy-paster
 - My first name may not be straightforward to pronounce in your language, so feel free to spell it as Xioqin, Xia, Xiaoquin, Shaw-Chin, Shaw or other creative formats!
-- I'd like to work with: please, anything other than powershell
+- I'd like to work with: please, anything except powershell
 - unpopular opinion: python is more elegant compared to most of the scripting languages
-- My WPM is about 86 and I'm ESL speaker loves to make typos / grammar mistakes
+- My WPM is about 86 and I'm ESL speaker loves making make typos / grammar mistakes
 
