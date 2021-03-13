@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - Chinese
 - I'm a fast stackoverflow copy-paster
-- My first name may not be straightforward to pronounce in your language, so feel free to spell it as Xioqin, Xia, Xiaoquin, Shaw-Chin, Shaw or other creative formats!
+- It may not be straightforward to pronounce my first name in your native language, so feel free to spell it as Xioqin, Xia, Xiaoquin, Shaw-Chin, Shaw or using other creative ways!
 - I'd like to work with: please, anything except powershell
 - unpopular opinion: python is more elegant compared to most of the scripting languages
 - My WPM is about 86 and I'm ESL speaker loves making make typos / grammar mistakes
