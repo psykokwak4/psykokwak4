@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - unpopular opinion: python is more elegant compared to most of the scripting languages
 - My WPM is about 86 and I'm ESL speaker loves making typos / grammar mistakes
 - Email is my preferred method of comminucation, shoot me an email if possible
+- Vim, Emacs, sublime, vscode with Emacs keybindings: 🥰
+- other system builtin editors: 
 
 opinions are my own, of course
