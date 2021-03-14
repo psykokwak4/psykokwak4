@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - My WPM is about 86 and I'm ESL speaker loves making typos / grammar mistakes
 - Email is my preferred method of comminucation, shoot me an email if possible
 - Vim, Emacs, sublime, vscode with Emacs keybindings: 🥰
-- other system builtin editors: 
+- other system builtin default editors: 😒
 
 opinions are my own, of course
