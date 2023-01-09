@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 -->
 
 - Chinese
-- Actually, call me whatever you want. You won't care. I don't care.
+- I know, it kills brain cells to think about the pronunciation of "Xiaoqin", so feel free to call me [Barbara](https://www.nobelprize.org/womenwhochangedscience/stories/barbara-mcclintock).
