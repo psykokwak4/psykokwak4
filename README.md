@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 -->
 
 - Chinese
-- I know it kills brain cells pondering the pronunciation of "Xiaoqin", so feel free to call me [Barbara](https://www.nobelprize.org/womenwhochangedscience/stories/barbara-mcclintock).
+- I know it kills brain cells pondering the pronunciation of "Xiaoqin", so feel free to call me [Barbara](https://en.wikipedia.org/wiki/Barbara_McClintock).
